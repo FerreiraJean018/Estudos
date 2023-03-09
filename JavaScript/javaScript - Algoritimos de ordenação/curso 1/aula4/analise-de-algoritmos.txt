@@ -1,0 +1,11 @@
+Na aula 4 vimos sobre a importancia de analisar seu algoritmo;
+
+quando vc faz um algoritmo, cada uma das operações realizadas consomem recursos do computador;
+
+Ex: processamento e memória
+
+Então quanto mais operações forem feitas, mais tempo demora para o computador processar o algoritmo;
+
+Então o ideal a se fazer é criar um algoritmo que é capaz retornar o resultado desejado, consumindo o minimo de memoria e processamento possíveis;
+
+é importante tomar cuidado com laços de repetição e condicionais, pois podem aumentar muito a complexidade do código;
